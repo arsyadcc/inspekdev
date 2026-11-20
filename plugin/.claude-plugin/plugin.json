@@ -1,7 +1,16 @@
 {
   "name": "inspek",
+  "version": "0.50.2",
   "description": "Work with the Inspek browser extension: read the user's visual CSS edits and annotations, preview CSS in their browser, study a site's design and verify fixes. Adds the Inspek MCP server and a skill for using it.",
-  "author": { "name": "Arsyad" },
+  "author": {
+    "name": "Arsyad"
+  },
   "homepage": "https://inspek.dev",
-  "keywords": ["css", "design", "browser", "annotations", "inspector"]
+  "keywords": [
+    "css",
+    "design",
+    "browser",
+    "annotations",
+    "inspector"
+  ]
 }

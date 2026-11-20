@@ -2,7 +2,7 @@
   "mcpServers": {
     "inspek": {
       "command": "npx",
-      "args": ["-y", "inspekdev@latest", "mcp"]
+      "args": ["-y", "inspekdev@0.50.1", "mcp"]
     }
   }
 }
