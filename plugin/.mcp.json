@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "inspek": {
+      "command": "npx",
+      "args": ["-y", "inspekdev@latest", "mcp"]
+    }
+  }
+}

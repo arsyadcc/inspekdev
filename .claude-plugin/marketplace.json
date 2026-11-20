@@ -1,0 +1,14 @@
+{
+  "name": "inspek",
+  "owner": {
+    "name": "Arsyad"
+  },
+  "description": "Inspek for Claude Code: connect Claude to the Inspek browser extension to apply your visual CSS edits, work through your annotations and check designs in your browser.",
+  "plugins": [
+    {
+      "name": "inspek",
+      "source": "./plugin",
+      "description": "Inspek for Claude Code: the MCP server and a skill to apply the user's browser edits, work through their annotations and check designs in their browser."
+    }
+  ]
+}
